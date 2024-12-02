@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Olatundun01
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently pursuing a degree in Computer Science.
+- 💞️ I’m looking to collaborate on projects and learn from others,
+- 📫 For collaborations, questions, or feedback, please email me at olatundunesther1@gmail.com 
+- ⚡ Fun fact: I love coding and learning new things.
